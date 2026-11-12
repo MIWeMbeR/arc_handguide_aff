@@ -1344,6 +1344,7 @@ timinggroup(noinput){
   arc(41419,41806,0.67,1.00,si,1.00,1.00,0,none,designant)[arctap(41805)];
   arc(45870,46451,-0.17,0.50,sosi,0.50,0.00,0,none,designant)[arctap(46450)];
   arc(46983,47612,1.00,0.50,sosi,0.50,1.00,0,none,designant)[arctap(47611)];
+  arc(49548,51096,0.67,-0.25,so,1.00,1.00,0,none,designant)[arctap(50128)];
   arc(52645,53032,0.50,0.50,s,0.00,0.00,0,none,designant)[arctap(52645)];
   arc(53419,53806,0.17,0.50,sisi,0.25,0.00,0,none,designant)[arctap(53419)];
   arc(55354,55741,0.50,0.50,s,0.00,0.00,0,none,designant)[arctap(55354)];
